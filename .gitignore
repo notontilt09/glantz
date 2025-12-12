@@ -21,6 +21,11 @@ wheels/
 *.egg
 MANIFEST
 
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
 # Virtual environments
 venv/
 env/
